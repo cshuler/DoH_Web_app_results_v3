@@ -1,0 +1,17 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "CPs_Tracts_Final_Prioirity_Weighted_383": {
+      "selected": true
+    },
+    "Tracts_Final_Prioirity_Weighted_7846": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
